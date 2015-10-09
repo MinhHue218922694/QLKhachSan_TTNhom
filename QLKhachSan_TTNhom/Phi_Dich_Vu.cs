@@ -16,6 +16,10 @@ namespace QLKhachSan_TTNhom
         {
             InitializeComponent();
         }
+        public Phi_Dich_Vu_Vip()
+        {
+            
+        }
     }
 }
-//bo sung them
+
