@@ -19,3 +19,4 @@ namespace QLKhachSan_TTNhom
     }
 }
 //bo sung them
+//private
