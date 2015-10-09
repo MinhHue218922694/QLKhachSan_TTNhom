@@ -60,9 +60,7 @@
             this.txt_tendangnhap.Size = new System.Drawing.Size(300, 20);
             this.txt_tendangnhap.TabIndex = 18;
             this.txt_tendangnhap.Text = "admin";
-            // 
             // btn_huy
-            // 
             this.btn_huy.BackColor = System.Drawing.SystemColors.Control;
             this.btn_huy.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.btn_huy.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -73,27 +71,25 @@
             this.btn_huy.Text = "Hủy";
             this.btn_huy.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btn_huy.UseVisualStyleBackColor = false;
-            // 
-            // lb_sttmk
-            // 
+         
             this.lb_sttmk.AutoSize = true;
             this.lb_sttmk.ForeColor = System.Drawing.Color.Red;
             this.lb_sttmk.Location = new System.Drawing.Point(194, 147);
             this.lb_sttmk.Name = "lb_sttmk";
             this.lb_sttmk.Size = new System.Drawing.Size(0, 13);
             this.lb_sttmk.TabIndex = 21;
-            // 
+          
             // lb_sttdn
-            // 
+           
             this.lb_sttdn.AutoSize = true;
             this.lb_sttdn.ForeColor = System.Drawing.Color.Red;
             this.lb_sttdn.Location = new System.Drawing.Point(194, 74);
             this.lb_sttdn.Name = "lb_sttdn";
             this.lb_sttdn.Size = new System.Drawing.Size(0, 13);
             this.lb_sttdn.TabIndex = 20;
-            // 
+          
             // label1
-            // 
+          
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.label1.Location = new System.Drawing.Point(161, 18);
@@ -102,9 +98,9 @@
             this.label1.Size = new System.Drawing.Size(191, 19);
             this.label1.TabIndex = 17;
             this.label1.Text = "ĐĂNG NHẬP HỆ THỐNG";
-            // 
+           
             // pictureBox3
-            // 
+        
             this.pictureBox3.Image = global::QLKhachSan_TTNhom.Properties.Resources.images__1_;
             this.pictureBox3.Location = new System.Drawing.Point(127, 131);
             this.pictureBox3.Name = "pictureBox3";
@@ -112,9 +108,9 @@
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox3.TabIndex = 26;
             this.pictureBox3.TabStop = false;
-            // 
+         
             // pictureBox2
-            // 
+          
             this.pictureBox2.Image = global::QLKhachSan_TTNhom.Properties.Resources._2;
             this.pictureBox2.Location = new System.Drawing.Point(127, 58);
             this.pictureBox2.Name = "pictureBox2";
@@ -122,9 +118,9 @@
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 25;
             this.pictureBox2.TabStop = false;
-            // 
+       
             // pictureBox1
-            // 
+           
             this.pictureBox1.Image = global::QLKhachSan_TTNhom.Properties.Resources.images;
             this.pictureBox1.Location = new System.Drawing.Point(10, 58);
             this.pictureBox1.Name = "pictureBox1";
@@ -132,9 +128,9 @@
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 24;
             this.pictureBox1.TabStop = false;
-            // 
+      
             // btn_dangnhap
-            // 
+        
             this.btn_dangnhap.BackColor = System.Drawing.SystemColors.Control;
             this.btn_dangnhap.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.btn_dangnhap.Image = ((System.Drawing.Image)(resources.GetObject("btn_dangnhap.Image")));
@@ -186,4 +182,4 @@
         private System.Windows.Forms.Label label1;
     }
 }
-
+// danh
