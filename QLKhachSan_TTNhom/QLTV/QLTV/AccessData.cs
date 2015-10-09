@@ -24,11 +24,6 @@ namespace QLTV
             return @"Data Source=NGOCHOA;Initial Catalog=D:\C#\BAITAP\QLTV\QLTV\BIN\DEBUG\QUANLYTHUVIEN.MDF;Integrated Security=True";
         }
         //Ket noi 
-<<<<<<< HEAD
-=======
-        // ket noi co sở dữ liệu
-        // sao không làm theo mô hình 3 lớp nhỉ?
->>>>>>> origin/master
         public void connect()
         {
             try
@@ -68,10 +63,6 @@ namespace QLTV
             disconnect();
             return ds;
         }
-<<<<<<< HEAD
-=======
-        // bài này nhìn quen quen
->>>>>>> origin/master
         //Dung cho cac thao tac insert, delete, update 
         public void ExcuteNonQuery(string sqlString)
         {
@@ -80,12 +71,7 @@ namespace QLTV
             command.ExecuteNonQuery();
             disconnect();
         }
-<<<<<<< HEAD
         //Lay 1 gia tri du lieu ra 
-=======
-        //Lay 1 gia tri du lieu ra
-        //lấy ra đâu nhỉ
->>>>>>> origin/master
         public object executeScalar(string sqlString)
         {
             connect();
