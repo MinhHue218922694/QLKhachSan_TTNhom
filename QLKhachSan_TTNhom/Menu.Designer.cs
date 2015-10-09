@@ -144,9 +144,7 @@
             this.nhậnĐặtPhòngToolStripMenuItem.Name = "nhậnĐặtPhòngToolStripMenuItem";
             this.nhậnĐặtPhòngToolStripMenuItem.Size = new System.Drawing.Size(185, 22);
             this.nhậnĐặtPhòngToolStripMenuItem.Text = "Nhận/Đặt Phòng";
-            // 
             // danhSáchNhậnĐặtToolStripMenuItem
-            // 
             this.danhSáchNhậnĐặtToolStripMenuItem.Name = "danhSáchNhậnĐặtToolStripMenuItem";
             this.danhSáchNhậnĐặtToolStripMenuItem.Size = new System.Drawing.Size(185, 22);
             this.danhSáchNhậnĐặtToolStripMenuItem.Text = "Danh Sách Nhận/Đặt";
