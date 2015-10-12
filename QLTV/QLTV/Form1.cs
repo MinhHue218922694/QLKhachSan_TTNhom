@@ -12,7 +12,8 @@ namespace QLTV
 {
     public partial class Form1 : Form
     {
-
+        private nhapsosachtudong()
+        {}
         public Form1()
         {
             InitializeComponent();
