@@ -43,18 +43,18 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
-            // 
+          
             // txt_matkhau
-            // 
+          
             this.txt_matkhau.Location = new System.Drawing.Point(127, 172);
             this.txt_matkhau.Name = "txt_matkhau";
             this.txt_matkhau.Size = new System.Drawing.Size(300, 20);
             this.txt_matkhau.TabIndex = 19;
             this.txt_matkhau.Text = "admin";
             this.txt_matkhau.UseSystemPasswordChar = true;
-            // 
+         
             // txt_tendangnhap
-            // 
+        
             this.txt_tendangnhap.Location = new System.Drawing.Point(127, 99);
             this.txt_tendangnhap.Name = "txt_tendangnhap";
             this.txt_tendangnhap.Size = new System.Drawing.Size(300, 20);
@@ -142,9 +142,9 @@
             this.btn_dangnhap.Text = "Đăng nhập";
             this.btn_dangnhap.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btn_dangnhap.UseVisualStyleBackColor = false;
-            // 
+         
             // Dang_Nhap
-            // 
+         
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(436, 262);
@@ -182,4 +182,4 @@
         private System.Windows.Forms.Label label1;
     }
 }
-// danh
+
