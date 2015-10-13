@@ -45,7 +45,7 @@ namespace QLTV
 
         int dong;
     
-
+  
         private void btnThem_Click(object sender, EventArgs e)
         {
             if (this.rdbNam.Checked)
@@ -165,7 +165,7 @@ namespace QLTV
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+                     //độc giả cần có thời gian cho mượn
         }
 
         private void dataGridViewDocGia_RowEnter(object sender, DataGridViewCellEventArgs e)
