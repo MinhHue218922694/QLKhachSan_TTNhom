@@ -21,13 +21,12 @@
         }
 
         #region Windows Form Designer generated code
-
         /// <summary>
         /// Required method for Designer support - do not modify
         /// the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent()
-        {
+        {                               
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Dang_Nhap));
             this.txt_matkhau = new System.Windows.Forms.TextBox();
             this.txt_tendangnhap = new System.Windows.Forms.TextBox();
@@ -44,7 +43,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
           
-            // txt_matkhau
+            // txt_matkhau(mk dang nhap)
           
             this.txt_matkhau.Location = new System.Drawing.Point(127, 172);
             this.txt_matkhau.Name = "txt_matkhau";
@@ -166,9 +165,9 @@
             this.ResumeLayout(false);
             this.PerformLayout();
 
-        }
+        }              
 
-        #endregion
+        #endregion                  
 
         private System.Windows.Forms.PictureBox pictureBox3;
         private System.Windows.Forms.PictureBox pictureBox2;
