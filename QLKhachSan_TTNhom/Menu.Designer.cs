@@ -21,7 +21,6 @@
         }
 
         #region Windows Form Designer generated code
-//xin chao
         /// <summary>
         /// Required method for Designer support - do not modify
         /// the contents of this method with the code editor.
@@ -144,9 +143,7 @@
             this.nhậnĐặtPhòngToolStripMenuItem.Name = "nhậnĐặtPhòngToolStripMenuItem";
             this.nhậnĐặtPhòngToolStripMenuItem.Size = new System.Drawing.Size(185, 22);
             this.nhậnĐặtPhòngToolStripMenuItem.Text = "Nhận/Đặt Phòng";
-            // 
             // danhSáchNhậnĐặtToolStripMenuItem
-            // 
             this.danhSáchNhậnĐặtToolStripMenuItem.Name = "danhSáchNhậnĐặtToolStripMenuItem";
             this.danhSáchNhậnĐặtToolStripMenuItem.Size = new System.Drawing.Size(185, 22);
             this.danhSáchNhậnĐặtToolStripMenuItem.Text = "Danh Sách Nhận/Đặt";
@@ -183,7 +180,7 @@
             this.labelX1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.labelX1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             // 
-            // 
+            // text
             // 
             this.labelX1.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             this.labelX1.Location = new System.Drawing.Point(0, 28);
@@ -350,7 +347,7 @@
             // 
             this.groupPanel1.StyleMouseDown.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             // 
-            // 
+            // sodo
             // 
             this.groupPanel1.StyleMouseOver.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             this.groupPanel1.TabIndex = 139;
