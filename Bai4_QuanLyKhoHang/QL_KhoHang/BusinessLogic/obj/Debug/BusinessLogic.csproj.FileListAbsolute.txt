@@ -1,0 +1,5 @@
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai4_QuanLyKhoHang\QL_KhoHang\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai4_QuanLyKhoHang\QL_KhoHang\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai4_QuanLyKhoHang\QL_KhoHang\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai4_QuanLyKhoHang\QL_KhoHang\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai4_QuanLyKhoHang\QL_KhoHang\BusinessLogic\obj\Debug\BusinessLogic.pdb

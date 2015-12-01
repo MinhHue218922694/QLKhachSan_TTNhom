@@ -1,0 +1,14 @@
+E:\Clone\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\Bai5_QLKhachSan.exe.config
+E:\Clone\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.csprojResolveAssemblyReference.cache
+E:\Clone\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.Properties.Resources.resources
+E:\Clone\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.csproj.GenerateResource.Cache
+E:\Clone\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\Bai5_QLKhachSan.exe
+E:\Clone\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\Bai5_QLKhachSan.pdb
+E:\Clone\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\BangKhachSan.dll
+E:\Clone\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\KetNoiDB.dll
+E:\Clone\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\BangKhachSan.pdb
+E:\Clone\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\KetNoiDB.pdb
+E:\Clone\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.exe
+E:\Clone\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.pdb
+E:\Clone\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.frmPHONG.resources
+E:\Clone\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.frmDoDungTheoPhong.resources

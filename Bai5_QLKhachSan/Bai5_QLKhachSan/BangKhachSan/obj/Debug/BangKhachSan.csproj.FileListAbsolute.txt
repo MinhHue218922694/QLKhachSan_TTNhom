@@ -1,0 +1,7 @@
+E:\Clone\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\bin\Debug\BangKhachSan.dll
+E:\Clone\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\bin\Debug\BangKhachSan.pdb
+E:\Clone\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\bin\Debug\KetNoiDB.dll
+E:\Clone\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\bin\Debug\KetNoiDB.pdb
+E:\Clone\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\obj\Debug\BangKhachSan.csprojResolveAssemblyReference.cache
+E:\Clone\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\obj\Debug\BangKhachSan.dll
+E:\Clone\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\obj\Debug\BangKhachSan.pdb
