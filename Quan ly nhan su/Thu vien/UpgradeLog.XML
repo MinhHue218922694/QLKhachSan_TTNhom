@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="QUANLYQN">
+</Property><Property Name="Solution File" Value="D:\Job_NQ\Du an Winform\Quan ly quan nhan_tieu doan 1\Quan ly quan nhan_tieu doan 1\Thu vien\QUANLYQN.sln">
+</Property><Property Name="Date" Value="Thursday, January 10, 2013">
+</Property><Property Name="Time" Value="22:47 PM">
+</Property></Properties><Event ErrorLevel="0" Project="QUANLYQN.Entities" Source="QUANLYQN.Entities\QUANLYQN.Entities.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="QUANLYQN.Entities" Source="QUANLYQN.Entities\QUANLYQN.Entities.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="QUANLYQN.Data" Source="QUANLYQN.Data\QUANLYQN.Data.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="QUANLYQN.Data" Source="QUANLYQN.Data\QUANLYQN.Data.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="QUANLYQN.Data.SqlClient" Source="QUANLYQN.Data.SqlClient\QUANLYQN.Data.SqlClient.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="QUANLYQN.Data.SqlClient" Source="QUANLYQN.Data.SqlClient\QUANLYQN.Data.SqlClient.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="QUANLYQN.Web" Source="QUANLYQN.Web\QUANLYQN.Web.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="QUANLYQN.Web" Source="QUANLYQN.Web\QUANLYQN.Web.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="QUANLYQN.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="QUANLYQN.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="QUANLYQN.Entities" Source="QUANLYQN.Entities\QUANLYQN.Entities.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="QUANLYQN.Data" Source="QUANLYQN.Data\QUANLYQN.Data.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="QUANLYQN.Data.SqlClient" Source="QUANLYQN.Data.SqlClient\QUANLYQN.Data.SqlClient.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="QUANLYQN.Web" Source="QUANLYQN.Web\QUANLYQN.Web.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,11 @@
+D:\Job_NQ\Du an Winform\Quan ly quan nhan_tieu doan 1\Quan ly quan nhan_tieu doan 1\Thu vien\QUANLYQN.Entities\bin\Debug\QUANLYQN.Entities.dll
+D:\Job_NQ\Du an Winform\Quan ly quan nhan_tieu doan 1\Quan ly quan nhan_tieu doan 1\Thu vien\QUANLYQN.Entities\bin\Debug\QUANLYQN.Entities.pdb
+D:\Job_NQ\Du an Winform\Quan ly quan nhan_tieu doan 1\Quan ly quan nhan_tieu doan 1\Thu vien\QUANLYQN.Entities\bin\Debug\QUANLYQN.Entities.xml
+D:\Job_NQ\Du an Winform\Quan ly quan nhan_tieu doan 1\Quan ly quan nhan_tieu doan 1\Thu vien\QUANLYQN.Entities\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.dll
+D:\Job_NQ\Du an Winform\Quan ly quan nhan_tieu doan 1\Quan ly quan nhan_tieu doan 1\Thu vien\QUANLYQN.Entities\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+D:\Job_NQ\Du an Winform\Quan ly quan nhan_tieu doan 1\Quan ly quan nhan_tieu doan 1\Thu vien\QUANLYQN.Entities\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Job_NQ\Du an Winform\Quan ly quan nhan_tieu doan 1\Quan ly quan nhan_tieu doan 1\Thu vien\QUANLYQN.Entities\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\Job_NQ\Du an Winform\Quan ly quan nhan_tieu doan 1\Quan ly quan nhan_tieu doan 1\Thu vien\QUANLYQN.Entities\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+D:\Job_NQ\Du an Winform\Quan ly quan nhan_tieu doan 1\Quan ly quan nhan_tieu doan 1\Thu vien\QUANLYQN.Entities\obj\Debug\ResolveAssemblyReference.cache
+D:\Job_NQ\Du an Winform\Quan ly quan nhan_tieu doan 1\Quan ly quan nhan_tieu doan 1\Thu vien\QUANLYQN.Entities\obj\Debug\QUANLYQN.Entities.dll
+D:\Job_NQ\Du an Winform\Quan ly quan nhan_tieu doan 1\Quan ly quan nhan_tieu doan 1\Thu vien\QUANLYQN.Entities\obj\Debug\QUANLYQN.Entities.pdb

@@ -1,0 +1,11 @@
+D:\PROJECT\Winform\Quan ly quan nhan_tieu doan 1\Thu vien\QUANLYQN.Entities\bin\Debug\QUANLYQN.Entities.dll
+D:\PROJECT\Winform\Quan ly quan nhan_tieu doan 1\Thu vien\QUANLYQN.Entities\bin\Debug\QUANLYQN.Entities.pdb
+D:\PROJECT\Winform\Quan ly quan nhan_tieu doan 1\Thu vien\QUANLYQN.Entities\bin\Debug\QUANLYQN.Entities.xml
+D:\PROJECT\Winform\Quan ly quan nhan_tieu doan 1\Thu vien\QUANLYQN.Entities\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.dll
+D:\PROJECT\Winform\Quan ly quan nhan_tieu doan 1\Thu vien\QUANLYQN.Entities\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+D:\PROJECT\Winform\Quan ly quan nhan_tieu doan 1\Thu vien\QUANLYQN.Entities\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\PROJECT\Winform\Quan ly quan nhan_tieu doan 1\Thu vien\QUANLYQN.Entities\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\PROJECT\Winform\Quan ly quan nhan_tieu doan 1\Thu vien\QUANLYQN.Entities\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+D:\PROJECT\Winform\Quan ly quan nhan_tieu doan 1\Thu vien\QUANLYQN.Entities\obj\GenerateDebug\ResolveAssemblyReference.cache
+D:\PROJECT\Winform\Quan ly quan nhan_tieu doan 1\Thu vien\QUANLYQN.Entities\obj\GenerateDebug\QUANLYQN.Entities.dll
+D:\PROJECT\Winform\Quan ly quan nhan_tieu doan 1\Thu vien\QUANLYQN.Entities\obj\GenerateDebug\QUANLYQN.Entities.pdb
