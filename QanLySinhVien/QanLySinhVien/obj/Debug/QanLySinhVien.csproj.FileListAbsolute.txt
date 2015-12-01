@@ -1,0 +1,10 @@
+D:\Visual Studio 2012\Projects\QanLySinhVien\QanLySinhVien\bin\Debug\QanLySinhVien.exe.config
+D:\Visual Studio 2012\Projects\QanLySinhVien\QanLySinhVien\obj\Debug\QanLySinhVien.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\QanLySinhVien\QanLySinhVien\obj\Debug\QanLySinhVien.Properties.Resources.resources
+D:\Visual Studio 2012\Projects\QanLySinhVien\QanLySinhVien\obj\Debug\QanLySinhVien.csproj.GenerateResource.Cache
+D:\Visual Studio 2012\Projects\QanLySinhVien\QanLySinhVien\bin\Debug\QanLySinhVien.exe
+D:\Visual Studio 2012\Projects\QanLySinhVien\QanLySinhVien\bin\Debug\QanLySinhVien.pdb
+D:\Visual Studio 2012\Projects\QanLySinhVien\QanLySinhVien\obj\Debug\QanLySinhVien.exe
+D:\Visual Studio 2012\Projects\QanLySinhVien\QanLySinhVien\obj\Debug\QanLySinhVien.pdb
+D:\Visual Studio 2012\Projects\QanLySinhVien\QanLySinhVien\obj\Debug\QanLySinhVien.frmQLSinhVien.resources
+D:\Visual Studio 2012\Projects\QanLySinhVien\QanLySinhVien\obj\Debug\QanLySinhVien.ThemDSSV.resources

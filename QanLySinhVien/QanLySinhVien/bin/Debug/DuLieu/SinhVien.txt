@@ -1,0 +1,63 @@
+SV001
+Lượng
+Nam
+01/01/2000 12:00:00 AM
+Kim Sơn-Ninh Bình
+Tieu Doan 3
+164531004
+8
+
+SV003
+Dũng
+Nam
+11/11/1994 12:00:00 AM
+Thanh Hóa
+Tiểu Đoàn 3
+183478387
+10
+
+SV3
+Hiếu
+Nam
+20/04/2015 12:00:00 AM
+Thái Nguyên
+TD3
+68768
+10
+
+SV6
+Linh
+Nữ
+19/04/2015 12:00:00 AM
+Hòa Bình
+TD3
+342782423
+10
+
+SV009
+Long
+Nam
+14/02/1994 12:00:00 AM
+Hải Dương
+Tiểu Đoàn 3
+163982823
+9
+
+SV001
+Lượng
+Nam
+01/01/2000 12:00:00 AM
+Kim Sơn-Ninh Bình
+Tieu Doan 3
+164531004
+8
+
+SV2
+Quang
+Nam
+20/04/2015 12:00:00 AM
+An Giang
+TD3
+24525
+5
+
