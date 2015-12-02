@@ -21,7 +21,7 @@ namespace BusinessLogic
             ad.Fill(dt);
             return dt;
         }
-
+        public string mathang();
         public string InsertHangHoa(string tenhh, int soluong, long giannhap, long giaxuat, string nsx, string thongtin)
         {
             string sql = "ThemHH";
