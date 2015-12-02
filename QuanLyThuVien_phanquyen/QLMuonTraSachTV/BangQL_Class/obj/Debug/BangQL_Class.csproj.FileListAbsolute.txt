@@ -1,0 +1,7 @@
+D:\HỌC TẬP\KY 5\code c#\QLMuonTraSachTV\BangQL_Class\obj\Debug\BangQL_Class.csprojResolveAssemblyReference.cache
+D:\HỌC TẬP\KY 5\code c#\QLMuonTraSachTV\BangQL_Class\bin\Debug\BangQL_Class.dll
+D:\HỌC TẬP\KY 5\code c#\QLMuonTraSachTV\BangQL_Class\bin\Debug\BangQL_Class.pdb
+D:\HỌC TẬP\KY 5\code c#\QLMuonTraSachTV\BangQL_Class\bin\Debug\KETNOI_MUONTRA.dll
+D:\HỌC TẬP\KY 5\code c#\QLMuonTraSachTV\BangQL_Class\bin\Debug\KETNOI_MUONTRA.pdb
+D:\HỌC TẬP\KY 5\code c#\QLMuonTraSachTV\BangQL_Class\obj\Debug\BangQL_Class.dll
+D:\HỌC TẬP\KY 5\code c#\QLMuonTraSachTV\BangQL_Class\obj\Debug\BangQL_Class.pdb

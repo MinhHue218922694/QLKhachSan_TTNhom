@@ -1,0 +1,7 @@
+D:\HỌC TẬP\KY 5\code c#\QLMuonTraSachTV\DAL\bin\Debug\DAL.dll
+D:\HỌC TẬP\KY 5\code c#\QLMuonTraSachTV\DAL\bin\Debug\DAL.pdb
+D:\HỌC TẬP\KY 5\code c#\QLMuonTraSachTV\DAL\bin\Debug\KETNOI_MUONTRA.dll
+D:\HỌC TẬP\KY 5\code c#\QLMuonTraSachTV\DAL\bin\Debug\KETNOI_MUONTRA.pdb
+D:\HỌC TẬP\KY 5\code c#\QLMuonTraSachTV\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\HỌC TẬP\KY 5\code c#\QLMuonTraSachTV\DAL\obj\Debug\DAL.dll
+D:\HỌC TẬP\KY 5\code c#\QLMuonTraSachTV\DAL\obj\Debug\DAL.pdb

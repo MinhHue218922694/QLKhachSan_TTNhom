@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLMuonTraSachTV", "QLMuonTraSachTV\QLMuonTraSachTV.csproj", "{E1424991-98A9-4050-8D8F-ED3A8140035C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KETNOI_MUONTRA", "KETNOI_MUONTRA\KETNOI_MUONTRA.csproj", "{D6F89DF0-50B1-4810-AA0E-CE250E8CAD38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{876EC426-938C-4CA3-950B-7648BC398C82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1424991-98A9-4050-8D8F-ED3A8140035C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1424991-98A9-4050-8D8F-ED3A8140035C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1424991-98A9-4050-8D8F-ED3A8140035C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1424991-98A9-4050-8D8F-ED3A8140035C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6F89DF0-50B1-4810-AA0E-CE250E8CAD38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F89DF0-50B1-4810-AA0E-CE250E8CAD38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F89DF0-50B1-4810-AA0E-CE250E8CAD38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F89DF0-50B1-4810-AA0E-CE250E8CAD38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{876EC426-938C-4CA3-950B-7648BC398C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{876EC426-938C-4CA3-950B-7648BC398C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{876EC426-938C-4CA3-950B-7648BC398C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{876EC426-938C-4CA3-950B-7648BC398C82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
