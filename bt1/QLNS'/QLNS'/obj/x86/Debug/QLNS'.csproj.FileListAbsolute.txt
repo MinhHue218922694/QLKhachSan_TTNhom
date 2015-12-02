@@ -1,0 +1,7 @@
+C:\Users\VIETANH\Documents\Visual Studio 2010\Projects\QLNS'\QLNS'\bin\Debug\QLNS'.exe
+C:\Users\VIETANH\Documents\Visual Studio 2010\Projects\QLNS'\QLNS'\bin\Debug\QLNS'.pdb
+C:\Users\VIETANH\Documents\Visual Studio 2010\Projects\QLNS'\QLNS'\obj\x86\Debug\QLNS'.csprojResolveAssemblyReference.cache
+C:\Users\VIETANH\Documents\Visual Studio 2010\Projects\QLNS'\QLNS'\obj\x86\Debug\QLNS_.Properties.Resources.resources
+C:\Users\VIETANH\Documents\Visual Studio 2010\Projects\QLNS'\QLNS'\obj\x86\Debug\QLNS'.csproj.GenerateResource.Cache
+C:\Users\VIETANH\Documents\Visual Studio 2010\Projects\QLNS'\QLNS'\obj\x86\Debug\QLNS'.exe
+C:\Users\VIETANH\Documents\Visual Studio 2010\Projects\QLNS'\QLNS'\obj\x86\Debug\QLNS'.pdb
