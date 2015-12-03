@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 cut di
+=======
+ddddddddddddđ
+>>>>>>> bd2b1905083749e8495823ab7c7db4206efd2d2b
