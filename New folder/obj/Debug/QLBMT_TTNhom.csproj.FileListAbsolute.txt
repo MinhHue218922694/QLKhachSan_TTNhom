@@ -1,0 +1,49 @@
+E:\2.HT Nam Thu Ba\Ki II\TT_Nhóm\QLBMT_TTNhom\bin\Debug\QLBMT_TTNhom.exe.config
+E:\2.HT Nam Thu Ba\Ki II\TT_Nhóm\QLBMT_TTNhom\bin\Debug\QLBMT_TTNhom.exe
+E:\2.HT Nam Thu Ba\Ki II\TT_Nhóm\QLBMT_TTNhom\bin\Debug\QLBMT_TTNhom.pdb
+E:\2.HT Nam Thu Ba\Ki II\TT_Nhóm\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.csprojResolveAssemblyReference.cache
+E:\2.HT Nam Thu Ba\Ki II\TT_Nhóm\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.Form1.resources
+E:\2.HT Nam Thu Ba\Ki II\TT_Nhóm\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.Properties.Resources.resources
+E:\2.HT Nam Thu Ba\Ki II\TT_Nhóm\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.csproj.GenerateResource.Cache
+E:\2.HT Nam Thu Ba\Ki II\TT_Nhóm\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.exe
+E:\2.HT Nam Thu Ba\Ki II\TT_Nhóm\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.pdb
+E:\2.HT Nam Thu Ba\Ki II\TT_Nhóm\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.Login.resources
+E:\2.HT Nam Thu Ba\Ki II\TT_Nhóm\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.frm_CTNhap.resources
+E:\2.HT Nam Thu Ba\Ki II\TT_Nhóm\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.frm_CTXuat.resources
+E:\2.HT Nam Thu Ba\Ki II\TT_Nhóm\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.frm_KhachHang.resources
+E:\2.HT Nam Thu Ba\Ki II\TT_Nhóm\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.frm_Lienhe.resources
+E:\2.HT Nam Thu Ba\Ki II\TT_Nhóm\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.frm_NhaCungCap.resources
+E:\2.HT Nam Thu Ba\Ki II\TT_Nhóm\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.frm_Nhanvien.resources
+E:\2.HT Nam Thu Ba\Ki II\TT_Nhóm\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.frm_NhapHang.resources
+E:\2.HT Nam Thu Ba\Ki II\TT_Nhóm\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.frm_SanPham.resources
+E:\2.HT Nam Thu Ba\Ki II\TT_Nhóm\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.frm_ThongKe.resources
+E:\2.HT Nam Thu Ba\Ki II\TT_Nhóm\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.frm_Timkiem.resources
+E:\2.HT Nam Thu Ba\Ki II\TT_Nhóm\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.frm_Uudai.resources
+E:\2.HT Nam Thu Ba\Ki II\TT_Nhóm\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.frm_XuatHang.resources
+E:\2.HT Nam Thu Ba\Ki II\TT_Nhóm\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.frm_thongketheodoanhthu.resources
+G:\QLBMT_TTNhom\bin\Debug\QLBMT_TTNhom.exe.config
+G:\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.exe
+G:\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.pdb
+D:\tai lieu ki 6\QLBMT_TTNhom\bin\Debug\QLBMT_TTNhom.exe.config
+D:\tai lieu ki 6\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.exe
+D:\tai lieu ki 6\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.pdb
+D:\tai lieu ki 6\QLBMT_TTNhom\bin\Debug\QLBMT_TTNhom.exe
+D:\tai lieu ki 6\QLBMT_TTNhom\bin\Debug\QLBMT_TTNhom.pdb
+D:\tai lieu ki 6\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.csprojResolveAssemblyReference.cache
+D:\tai lieu ki 6\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.Form1.resources
+D:\tai lieu ki 6\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.frm_CTNhap.resources
+D:\tai lieu ki 6\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.frm_CTXuat.resources
+D:\tai lieu ki 6\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.frm_KhachHang.resources
+D:\tai lieu ki 6\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.frm_Lienhe.resources
+D:\tai lieu ki 6\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.frm_NhaCungCap.resources
+D:\tai lieu ki 6\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.frm_Nhanvien.resources
+D:\tai lieu ki 6\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.frm_NhapHang.resources
+D:\tai lieu ki 6\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.frm_SanPham.resources
+D:\tai lieu ki 6\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.frm_ThongKe.resources
+D:\tai lieu ki 6\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.frm_thongketheodoanhthu.resources
+D:\tai lieu ki 6\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.frm_Timkiem.resources
+D:\tai lieu ki 6\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.frm_Uudai.resources
+D:\tai lieu ki 6\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.frm_XuatHang.resources
+D:\tai lieu ki 6\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.Login.resources
+D:\tai lieu ki 6\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.Properties.Resources.resources
+D:\tai lieu ki 6\QLBMT_TTNhom\obj\Debug\QLBMT_TTNhom.csproj.GenerateResource.Cache
