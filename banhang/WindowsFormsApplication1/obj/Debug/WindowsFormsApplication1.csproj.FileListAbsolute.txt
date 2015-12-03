@@ -19,3 +19,24 @@ D:\HỌC TẬP\KY 6\Cong nghe web\WindowsFormsApplication1\WindowsFormsApplicati
 D:\HỌC TẬP\KY 6\Cong nghe web\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\HTDFramework_v1.2.xml
 D:\HỌC TẬP\KY 6\Cong nghe web\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 D:\HỌC TẬP\KY 6\Cong nghe web\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\VIETANH\QLKhachSan_TTNhom\banhang\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\VIETANH\QLKhachSan_TTNhom\banhang\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\VIETANH\QLKhachSan_TTNhom\banhang\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\VIETANH\QLKhachSan_TTNhom\banhang\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\VIETANH\QLKhachSan_TTNhom\banhang\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\VIETANH\QLKhachSan_TTNhom\banhang\WindowsFormsApplication1\bin\Debug\HTDFramework_v1.2.dll
+C:\Users\VIETANH\QLKhachSan_TTNhom\banhang\WindowsFormsApplication1\bin\Debug\HTDFramework_v1.2.xml
+C:\Users\VIETANH\QLKhachSan_TTNhom\banhang\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\VIETANH\QLKhachSan_TTNhom\banhang\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\banhang\WindowsFormsApplication1\obj\Debug\QLBanHang.Views.Main.Form1.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\banhang\WindowsFormsApplication1\obj\Debug\QLBanHang.Views.Main.Main.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\banhang\WindowsFormsApplication1\obj\Debug\QLBanHang.Views.Banhang.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\banhang\WindowsFormsApplication1\obj\Debug\QLBanHang.Views.ChamSocKhachHang.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\banhang\WindowsFormsApplication1\obj\Debug\QLBanHang.Views.QuanLySanPham.Nhapkho.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\banhang\WindowsFormsApplication1\obj\Debug\QLBanHang.Views.QuanLySanPham.Quanly.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\banhang\WindowsFormsApplication1\obj\Debug\QLBanHang.Views.Sanpham.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\banhang\WindowsFormsApplication1\obj\Debug\QLBanHang.Views.ViewControl.Khachhang.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\banhang\WindowsFormsApplication1\obj\Debug\QLBanHang.Views.ViewControl.Khohang.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\banhang\WindowsFormsApplication1\obj\Debug\QLBanHang.Views.ViewControl.Nhanvien.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\banhang\WindowsFormsApplication1\obj\Debug\QLBanHang.Views.ViewControl.Thongke.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\banhang\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
