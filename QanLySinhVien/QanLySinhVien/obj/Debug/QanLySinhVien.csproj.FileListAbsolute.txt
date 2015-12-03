@@ -8,3 +8,6 @@ D:\Visual Studio 2012\Projects\QanLySinhVien\QanLySinhVien\obj\Debug\QanLySinhVi
 D:\Visual Studio 2012\Projects\QanLySinhVien\QanLySinhVien\obj\Debug\QanLySinhVien.pdb
 D:\Visual Studio 2012\Projects\QanLySinhVien\QanLySinhVien\obj\Debug\QanLySinhVien.frmQLSinhVien.resources
 D:\Visual Studio 2012\Projects\QanLySinhVien\QanLySinhVien\obj\Debug\QanLySinhVien.ThemDSSV.resources
+C:\Users\Trungdame\Desktop\TTN\QLKhachSan_TTNhom\QanLySinhVien\QanLySinhVien\bin\Debug\QanLySinhVien.exe.config
+C:\Users\Trungdame\Desktop\TTN\QLKhachSan_TTNhom\QanLySinhVien\QanLySinhVien\obj\Debug\QanLySinhVien.exe
+C:\Users\Trungdame\Desktop\TTN\QLKhachSan_TTNhom\QanLySinhVien\QanLySinhVien\obj\Debug\QanLySinhVien.pdb

@@ -65,3 +65,6 @@ C:\TTN\Quanlykhachsan\obj\Debug\qlks.frmTBTrangTB.resources
 C:\TTN\Quanlykhachsan\obj\Debug\qlks.frmTraPhong.resources
 C:\TTN\Quanlykhachsan\obj\Debug\qlks.frmThietBi.resources
 C:\TTN\Quanlykhachsan\obj\Debug\qlks.csproj.GenerateResource.Cache
+C:\Users\Trungdame\Desktop\TTN\QLKhachSan_TTNhom\Quanlykhachsan\bin\Debug\qlks.exe.config
+C:\Users\Trungdame\Desktop\TTN\QLKhachSan_TTNhom\Quanlykhachsan\obj\Debug\qlks.exe
+C:\Users\Trungdame\Desktop\TTN\QLKhachSan_TTNhom\Quanlykhachsan\obj\Debug\qlks.pdb

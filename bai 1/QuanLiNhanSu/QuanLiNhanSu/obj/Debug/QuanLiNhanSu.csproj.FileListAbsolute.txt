@@ -16,3 +16,15 @@ F:\Documents\GitHub\Data\Project_1\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNha
 F:\Documents\GitHub\Data\Project_1\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.pdb
 D:\File_GitHub\Data\Project_1\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.exe
 D:\File_GitHub\Data\Project_1\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.pdb
+C:\Users\Trungdame\Desktop\TTN\QLKhachSan_TTNhom\bai 1\QuanLiNhanSu\QuanLiNhanSu\bin\Debug\QuanLiNhanSu.exe.config
+C:\Users\Trungdame\Desktop\TTN\QLKhachSan_TTNhom\bai 1\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.exe
+C:\Users\Trungdame\Desktop\TTN\QLKhachSan_TTNhom\bai 1\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.pdb
+C:\Users\Trungdame\Desktop\TTN\QLKhachSan_TTNhom\bai 1\QuanLiNhanSu\QuanLiNhanSu\bin\Debug\QuanLiNhanSu.exe
+C:\Users\Trungdame\Desktop\TTN\QLKhachSan_TTNhom\bai 1\QuanLiNhanSu\QuanLiNhanSu\bin\Debug\QuanLiNhanSu.pdb
+C:\Users\Trungdame\Desktop\TTN\QLKhachSan_TTNhom\bai 1\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.csprojResolveAssemblyReference.cache
+C:\Users\Trungdame\Desktop\TTN\QLKhachSan_TTNhom\bai 1\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.frmChiDan.resources
+C:\Users\Trungdame\Desktop\TTN\QLKhachSan_TTNhom\bai 1\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.frmDangNhap.resources
+C:\Users\Trungdame\Desktop\TTN\QLKhachSan_TTNhom\bai 1\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.frmMain.resources
+C:\Users\Trungdame\Desktop\TTN\QLKhachSan_TTNhom\bai 1\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.frmMenu.resources
+C:\Users\Trungdame\Desktop\TTN\QLKhachSan_TTNhom\bai 1\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Properties.Resources.resources
+C:\Users\Trungdame\Desktop\TTN\QLKhachSan_TTNhom\bai 1\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.csproj.GenerateResource.Cache
