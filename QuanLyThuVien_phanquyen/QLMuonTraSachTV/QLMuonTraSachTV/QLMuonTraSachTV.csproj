@@ -50,9 +50,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="frmChiTietDG.cs">
+    <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChiTietDG.cs" />
     <Compile Include="frmChiTietDG.Designer.cs">
       <DependentUpon>frmChiTietDG.cs</DependentUpon>
     </Compile>
@@ -62,39 +66,27 @@
     <Compile Include="frmChiTietNXB.Designer.cs">
       <DependentUpon>frmChiTietNXB.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmChiTietTacGia.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="frmChiTietTacGia.cs" />
     <Compile Include="frmChiTietTacGia.Designer.cs">
       <DependentUpon>frmChiTietTacGia.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmChiTietTheLoai.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="frmChiTietTheLoai.cs" />
     <Compile Include="frmChiTietTheLoai.Designer.cs">
       <DependentUpon>frmChiTietTheLoai.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmDangNhap.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="frmDangNhap.cs" />
     <Compile Include="frmDangNhap.Designer.cs">
       <DependentUpon>frmDangNhap.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmDauSach_QL.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="frmDauSach_QL.cs" />
     <Compile Include="frmDauSach_QL.Designer.cs">
       <DependentUpon>frmDauSach_QL.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmDocGia.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="frmDocGia.cs" />
     <Compile Include="frmDocGia.Designer.cs">
       <DependentUpon>frmDocGia.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmEditPass.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="frmEditPass.cs" />
     <Compile Include="frmEditPass.Designer.cs">
       <DependentUpon>frmEditPass.cs</DependentUpon>
     </Compile>
@@ -110,15 +102,11 @@
     <Compile Include="frmMuon.Designer.cs">
       <DependentUpon>frmMuon.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmQuyenSach.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="frmQuyenSach.cs" />
     <Compile Include="frmQuyenSach.Designer.cs">
       <DependentUpon>frmQuyenSach.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmSach_Dg.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="frmSach_Dg.cs" />
     <Compile Include="frmSach_Dg.Designer.cs">
       <DependentUpon>frmSach_Dg.cs</DependentUpon>
     </Compile>

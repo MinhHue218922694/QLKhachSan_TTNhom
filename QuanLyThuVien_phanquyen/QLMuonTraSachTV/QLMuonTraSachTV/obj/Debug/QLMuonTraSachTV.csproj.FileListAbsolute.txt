@@ -24,3 +24,22 @@ D:\HỌC TẬP\KY 5\code c#\QLMuonTraSachTV\QLMuonTraSachTV\obj\Debug\QLMuonTraS
 D:\HỌC TẬP\KY 5\code c#\QLMuonTraSachTV\QLMuonTraSachTV\obj\Debug\QLMuonTraSachTV.frmTraSach.resources
 D:\HỌC TẬP\KY 5\code c#\QLMuonTraSachTV\QLMuonTraSachTV\obj\Debug\QLMuonTraSachTV.frmDocGia.resources
 D:\HỌC TẬP\KY 5\code c#\QLMuonTraSachTV\QLMuonTraSachTV\obj\Debug\QLMuonTraSachTV.frmEditPass.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\QuanLyThuVien_phanquyen\QLMuonTraSachTV\QLMuonTraSachTV\bin\Debug\QLMuonTraSachTV.exe.config
+C:\Users\VIETANH\QLKhachSan_TTNhom\QuanLyThuVien_phanquyen\QLMuonTraSachTV\QLMuonTraSachTV\obj\Debug\QLMuonTraSachTV.exe
+C:\Users\VIETANH\QLKhachSan_TTNhom\QuanLyThuVien_phanquyen\QLMuonTraSachTV\QLMuonTraSachTV\obj\Debug\QLMuonTraSachTV.pdb
+C:\Users\VIETANH\QLKhachSan_TTNhom\QuanLyThuVien_phanquyen\QLMuonTraSachTV\QLMuonTraSachTV\obj\Debug\QLMuonTraSachTV.csprojResolveAssemblyReference.cache
+C:\Users\VIETANH\QLKhachSan_TTNhom\QuanLyThuVien_phanquyen\QLMuonTraSachTV\QLMuonTraSachTV\obj\Debug\QLMuonTraSachTV.frmChiTietDG.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\QuanLyThuVien_phanquyen\QLMuonTraSachTV\QLMuonTraSachTV\obj\Debug\QLMuonTraSachTV.frmChiTietNXB.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\QuanLyThuVien_phanquyen\QLMuonTraSachTV\QLMuonTraSachTV\obj\Debug\QLMuonTraSachTV.frmChiTietTacGia.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\QuanLyThuVien_phanquyen\QLMuonTraSachTV\QLMuonTraSachTV\obj\Debug\QLMuonTraSachTV.frmChiTietTheLoai.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\QuanLyThuVien_phanquyen\QLMuonTraSachTV\QLMuonTraSachTV\obj\Debug\QLMuonTraSachTV.frmDangNhap.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\QuanLyThuVien_phanquyen\QLMuonTraSachTV\QLMuonTraSachTV\obj\Debug\QLMuonTraSachTV.frmDauSach_QL.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\QuanLyThuVien_phanquyen\QLMuonTraSachTV\QLMuonTraSachTV\obj\Debug\QLMuonTraSachTV.frmDocGia.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\QuanLyThuVien_phanquyen\QLMuonTraSachTV\QLMuonTraSachTV\obj\Debug\QLMuonTraSachTV.frmEditPass.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\QuanLyThuVien_phanquyen\QLMuonTraSachTV\QLMuonTraSachTV\obj\Debug\QLMuonTraSachTV.frmMenu.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\QuanLyThuVien_phanquyen\QLMuonTraSachTV\QLMuonTraSachTV\obj\Debug\QLMuonTraSachTV.frmMuon.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\QuanLyThuVien_phanquyen\QLMuonTraSachTV\QLMuonTraSachTV\obj\Debug\QLMuonTraSachTV.frmQuyenSach.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\QuanLyThuVien_phanquyen\QLMuonTraSachTV\QLMuonTraSachTV\obj\Debug\QLMuonTraSachTV.frmSach_DG.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\QuanLyThuVien_phanquyen\QLMuonTraSachTV\QLMuonTraSachTV\obj\Debug\QLMuonTraSachTV.frmTraSach.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\QuanLyThuVien_phanquyen\QLMuonTraSachTV\QLMuonTraSachTV\obj\Debug\QLMuonTraSachTV.Properties.Resources.resources
+C:\Users\VIETANH\QLKhachSan_TTNhom\QuanLyThuVien_phanquyen\QLMuonTraSachTV\QLMuonTraSachTV\obj\Debug\QLMuonTraSachTV.csproj.GenerateResource.Cache

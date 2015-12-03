@@ -2,3 +2,8 @@ D:\HỌC TẬP\KY 5\code c#\QLMuonTraSachTV\KETNOI_MUONTRA\bin\Debug\KETNOI_MUON
 D:\HỌC TẬP\KY 5\code c#\QLMuonTraSachTV\KETNOI_MUONTRA\bin\Debug\KETNOI_MUONTRA.pdb
 D:\HỌC TẬP\KY 5\code c#\QLMuonTraSachTV\KETNOI_MUONTRA\obj\Debug\KETNOI_MUONTRA.dll
 D:\HỌC TẬP\KY 5\code c#\QLMuonTraSachTV\KETNOI_MUONTRA\obj\Debug\KETNOI_MUONTRA.pdb
+C:\Users\VIETANH\QLKhachSan_TTNhom\QuanLyThuVien_phanquyen\QLMuonTraSachTV\KETNOI_MUONTRA\bin\Debug\KETNOI_MUONTRA.dll
+C:\Users\VIETANH\QLKhachSan_TTNhom\QuanLyThuVien_phanquyen\QLMuonTraSachTV\KETNOI_MUONTRA\bin\Debug\KETNOI_MUONTRA.pdb
+C:\Users\VIETANH\QLKhachSan_TTNhom\QuanLyThuVien_phanquyen\QLMuonTraSachTV\KETNOI_MUONTRA\obj\Debug\KETNOI_MUONTRA.dll
+C:\Users\VIETANH\QLKhachSan_TTNhom\QuanLyThuVien_phanquyen\QLMuonTraSachTV\KETNOI_MUONTRA\obj\Debug\KETNOI_MUONTRA.pdb
+C:\Users\VIETANH\QLKhachSan_TTNhom\QuanLyThuVien_phanquyen\QLMuonTraSachTV\KETNOI_MUONTRA\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll

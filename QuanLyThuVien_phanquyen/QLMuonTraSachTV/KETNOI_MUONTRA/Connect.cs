@@ -13,7 +13,7 @@ namespace KETNOI_MUONTRA
         SqlConnection cn = new SqlConnection();
         public static string GetConnect()
         {
-            return (@"Data Source=NGUYENHUE-PC\SQLEXPRESS;Initial Catalog=LAMLAI;Integrated Security=True");
+            return (@"Data Source=NgocHoa\SQLEXPRESS;Initial Catalog=LAMLAI;Integrated Security=True");
        
         }
     }
