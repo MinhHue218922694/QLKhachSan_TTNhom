@@ -1,0 +1,107 @@
+c:\users\ubuntu\documents\visual studio 2013\Projects\QUANLY_HS_GV\QUANLY_HS_GV\bin\Debug\QUANLY_HS_GV.exe.config
+c:\users\ubuntu\documents\visual studio 2013\Projects\QUANLY_HS_GV\QUANLY_HS_GV\bin\Debug\QUANLY_HS_GV.exe
+c:\users\ubuntu\documents\visual studio 2013\Projects\QUANLY_HS_GV\QUANLY_HS_GV\bin\Debug\QUANLY_HS_GV.pdb
+c:\users\ubuntu\documents\visual studio 2013\Projects\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.csprojResolveAssemblyReference.cache
+c:\users\ubuntu\documents\visual studio 2013\Projects\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.frmMain.resources
+c:\users\ubuntu\documents\visual studio 2013\Projects\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.GiaoVien.resources
+c:\users\ubuntu\documents\visual studio 2013\Projects\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.Help.resources
+c:\users\ubuntu\documents\visual studio 2013\Projects\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.HocSinh.resources
+c:\users\ubuntu\documents\visual studio 2013\Projects\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.Properties.Resources.resources
+c:\users\ubuntu\documents\visual studio 2013\Projects\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.csproj.GenerateResource.Cache
+c:\users\ubuntu\documents\visual studio 2013\Projects\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.exe
+c:\users\ubuntu\documents\visual studio 2013\Projects\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.pdb
+E:\GitHub\Data\Project 2\QUANLY_HS_GV\QUANLY_HS_GV\bin\Debug\QUANLY_HS_GV.exe.config
+E:\GitHub\Data\Project 2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.exe
+E:\GitHub\Data\Project 2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.pdb
+C:\Users\Quang1\Desktop\học tập\Data\Project 2\QUANLY_HS_GV\QUANLY_HS_GV\bin\Debug\QUANLY_HS_GV.exe.config
+C:\Users\Quang1\Desktop\học tập\Data\Project 2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.exe
+C:\Users\Quang1\Desktop\học tập\Data\Project 2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.pdb
+C:\Users\Quang1\Desktop\học tập\Data\Project 2\QUANLY_HS_GV\QUANLY_HS_GV\bin\Debug\QUANLY_HS_GV.exe
+C:\Users\Quang1\Desktop\học tập\Data\Project 2\QUANLY_HS_GV\QUANLY_HS_GV\bin\Debug\QUANLY_HS_GV.pdb
+C:\Users\Quang1\Desktop\học tập\Data\Project 2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.csprojResolveAssemblyReference.cache
+C:\Users\Quang1\Desktop\học tập\Data\Project 2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.frmMain.resources
+C:\Users\Quang1\Desktop\học tập\Data\Project 2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.GiaoVien.resources
+C:\Users\Quang1\Desktop\học tập\Data\Project 2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.Help.resources
+C:\Users\Quang1\Desktop\học tập\Data\Project 2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.HocSinh.resources
+C:\Users\Quang1\Desktop\học tập\Data\Project 2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.Properties.Resources.resources
+C:\Users\Quang1\Desktop\học tập\Data\Project 2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\QUANLY_HS_GV\QUANLY_HS_GV\bin\Debug\QUANLY_HS_GV.exe.config
+C:\Users\ADMIN\Desktop\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.exe
+C:\Users\ADMIN\Desktop\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.pdb
+C:\Users\ADMIN\Desktop\QUANLY_HS_GV\QUANLY_HS_GV\bin\Debug\QUANLY_HS_GV.exe
+C:\Users\ADMIN\Desktop\QUANLY_HS_GV\QUANLY_HS_GV\bin\Debug\QUANLY_HS_GV.pdb
+C:\Users\ADMIN\Desktop\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.frmMain.resources
+C:\Users\ADMIN\Desktop\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.GiaoVien.resources
+C:\Users\ADMIN\Desktop\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.Help.resources
+C:\Users\ADMIN\Desktop\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.HocSinh.resources
+C:\Users\ADMIN\Desktop\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.csproj.GenerateResource.Cache
+D:\MTA\IT\6- Thuc Tap Nhom\Doit\QUANLY_HS_GV\QUANLY_HS_GV\bin\Debug\QUANLY_HS_GV.exe.config
+D:\MTA\IT\6- Thuc Tap Nhom\Doit\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.exe
+D:\MTA\IT\6- Thuc Tap Nhom\Doit\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.pdb
+C:\Users\ADMIN\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\bin\Debug\QUANLY_HS_GV.exe.config
+C:\Users\ADMIN\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.exe
+C:\Users\ADMIN\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.pdb
+C:\Users\ADMIN\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\bin\Debug\QUANLY_HS_GV.exe
+C:\Users\ADMIN\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\bin\Debug\QUANLY_HS_GV.pdb
+C:\Users\ADMIN\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.frmMain.resources
+C:\Users\ADMIN\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.GiaoVien.resources
+C:\Users\ADMIN\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.Help.resources
+C:\Users\ADMIN\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.HocSinh.resources
+C:\Users\ADMIN\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.Properties.Resources.resources
+C:\Users\ADMIN\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.csproj.GenerateResource.Cache
+C:\Users\UBUNTU\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\bin\Debug\QUANLY_HS_GV.exe.config
+C:\Users\UBUNTU\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.exe
+C:\Users\UBUNTU\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.pdb
+C:\Users\UBUNTU\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.csprojResolveAssemblyReference.cache
+C:\Users\UBUNTU\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.frmMain.resources
+C:\Users\UBUNTU\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.GiaoVien.resources
+C:\Users\UBUNTU\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.HocSinh.resources
+C:\Users\UBUNTU\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.Properties.Resources.resources
+C:\Users\UBUNTU\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.csproj.GenerateResource.Cache
+C:\Users\UBUNTU\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\bin\Debug\QUANLY_HS_GV.exe
+C:\Users\UBUNTU\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\bin\Debug\QUANLY_HS_GV.pdb
+C:\Users\UBUNTU\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.Login.resources
+C:\Users\UBUNTU\Desktop\QUANLY_HS_GV\QUANLY_HS_GV\bin\Debug\QUANLY_HS_GV.exe.config
+C:\Users\UBUNTU\Desktop\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.exe
+C:\Users\UBUNTU\Desktop\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.pdb
+C:\Users\UBUNTU\Desktop\QUANLY_HS_GV\QUANLY_HS_GV\bin\Debug\QUANLY_HS_GV.exe
+C:\Users\UBUNTU\Desktop\QUANLY_HS_GV\QUANLY_HS_GV\bin\Debug\QUANLY_HS_GV.pdb
+C:\Users\UBUNTU\Desktop\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.csprojResolveAssemblyReference.cache
+C:\Users\UBUNTU\Desktop\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.frmMain.resources
+C:\Users\UBUNTU\Desktop\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.GiaoVien.resources
+C:\Users\UBUNTU\Desktop\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.Login.resources
+C:\Users\UBUNTU\Desktop\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.HocSinh.resources
+C:\Users\UBUNTU\Desktop\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.Properties.Resources.resources
+C:\Users\UBUNTU\Desktop\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.csproj.GenerateResource.Cache
+F:\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\bin\Debug\QUANLY_HS_GV.exe.config
+F:\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.exe
+F:\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.pdb
+F:\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\bin\Debug\QUANLY_HS_GV.exe
+F:\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\bin\Debug\QUANLY_HS_GV.pdb
+F:\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.csprojResolveAssemblyReference.cache
+F:\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.frmMain.resources
+F:\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.GiaoVien.resources
+F:\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.Login.resources
+F:\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.HocSinh.resources
+F:\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.Properties.Resources.resources
+F:\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.csproj.GenerateResource.Cache
+<<<<<<< HEAD
+D:\File_GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\bin\Debug\QUANLY_HS_GV.exe.config
+D:\File_GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.exe
+D:\File_GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.pdb
+=======
+F:\Documents\GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.huongdan.resources
+>>>>>>> origin/master
+D:\File_GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\bin\Debug\QUANLY_HS_GV.exe
+D:\File_GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\bin\Debug\QUANLY_HS_GV.pdb
+D:\File_GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.csprojResolveAssemblyReference.cache
+D:\File_GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.huongdan.resources
+D:\File_GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.frmMain.resources
+D:\File_GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.GiaoVien.resources
+D:\File_GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.Login.resources
+D:\File_GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.HocSinh.resources
+D:\File_GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.Properties.Resources.resources
+D:\File_GitHub\Data\Project_2\QUANLY_HS_GV\QUANLY_HS_GV\obj\Debug\QUANLY_HS_GV.csproj.GenerateResource.Cache
