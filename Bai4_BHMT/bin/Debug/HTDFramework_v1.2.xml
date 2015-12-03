@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HTDFramework_v1.2</name>
+    </assembly>
+    <members>
+        <member name="T:HTDFramework.Data.DataConfig">
+            <summary>
+            Chứa các thuộc tính tĩnh như "connectionString"
+            </summary>
+        </member>
+        <member name="P:HTDFramework.Data.DataConfig.connectionString">
+            <summary>
+            Chuỗi Connect với cơ sở dữ liệu
+            </summary>
+        </member>
+        <member name="T:HTDFramework.Data.DataManager`1">
+            <summary>
+                Lớp hỗ trợ thao tác với dữ liệu của 1 bảng dữ liệu trong CDSL.
+            </summary>
+            <typeparam name="T">Kiểu dữ liệu chứa các thuộc tính tương ứng với các trường của bảng dữ liệu muốn thao tác.</typeparam>
+        </member>
+        <member name="M:HTDFramework.Data.DataManager`1.#ctor">
+            <summary>
+                <para>Hàm khởi tạo.</para>
+            </summary>
+            <param name="connectionString">
+            Chuỗi connectionString kết nối tới CSDL.
+            <para>"server=ServerName;database=DatabaseName;user=account;password=password"</para>
+            </param>
+        </member>
+        <member name="M:HTDFramework.Data.DataManager`1.Insert(`0)">
+            <summary>
+                <para>Phương thức thêm bản ghi vào CSDL</para>
+            </summary>
+            <param name="obj">
+                <para>Đối tượng chứa dữ liệu muốn thêm vào CSDL</para>
+            </param>
+        </member>
+        <member name="M:HTDFramework.Data.DataManager`1.Update(`0)">
+            <summary>
+                <para>Phương thức chỉnh sửa bản ghi trong CSDL</para>
+            </summary>
+            <param name="obj">
+                <para>Đối tượng chứa dữ liệu đã chỉnh sửa</para>
+                <para>Chú ý: Trường khóa chính ([Tablename]ID) là trường dùng để phân biệt các bản ghi với nhau.</para>
+                <para>Vì vậy, [Tablename]ID phải có giá trị = với giá trị của bản ghi muốn chính sửa. </para>
+            </param>
+        </member>
+        <member name="M:HTDFramework.Data.DataManager`1.DeleteByID(System.Int32)">
+            <summary>
+            Xóa một bản ghi dựa theo giá trị ID của khóa chính.
+            </summary>
+            <param name="ID">Giá trị ID của bản ghi muốn xóa.</param>
+        </member>
+        <member name="M:HTDFramework.Data.DataManager`1.GetDataByID(System.Int32)">
+            <summary>
+                <para>Lấy dữ liệu của 1 bản ghi trong CSDL dựa theo ID của bản ghi đó.</para>
+            </summary>
+            <param name="id">ID của bản ghi muốn lấy</param>
+            <returns>
+                Trả về đối tượng chứa dữ liệu của bản ghi muốn lấy.
+            </returns>
+        </member>
+        <member name="M:HTDFramework.Data.DataManager`1.GetAllData">
+            <summary>
+                Lấy tất cả các bản ghi có trong bảng.
+            </summary>
+            <returns>Trả về một List các đối tượng chứa dữ liệu cần lấy.</returns>
+        </member>
+        <member name="M:HTDFramework.Data.DataManager`1.GetDataByPage(System.Int32,System.Int32,System.String,System.String,System.Boolean)">
+            <summary>
+            Hàm lấy dữ liệu theo phân trang
+            </summary>
+            <param name="PageNumber">Trang số ?</param>
+            <param name="PageSize">Số lượng bản ghi/trang</param>
+            <param name="SortBy">Sắp xếp theo trường nào?</param>
+            <param name="ContentSearch">Nội dung tìm kiếm</param>
+            <param name="SortDirection">Chiều sắp xếp (Fasle = Tăng dần/ True = Giảm dần)</param>
+            <returns>List đối tượng</returns>
+        </member>
+        <member name="M:HTDFramework.Data.DataManager`1.TotalRecord">
+            <summary>
+            Đếm tổng số bản ghi
+            </summary>
+            <returns>Tổng số bản ghi</returns>
+        </member>
+    </members>
+</doc>
