@@ -1,0 +1,9 @@
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csprojResolveAssemblyReference.cache
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Form1.resources
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.Cache
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb

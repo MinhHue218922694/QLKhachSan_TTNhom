@@ -1,0 +1,60 @@
+D:\HK6-3\Thực tập nhóm\CSDL\Sơn\sieuthi\sieuthi\obj\Debug\sieuthi.csprojResolveAssemblyReference.cache
+D:\HK6-3\Thực tập nhóm\CSDL\Sơn\sieuthi\sieuthi\obj\Debug\sieuthi.khachhang.resources
+D:\HK6-3\Thực tập nhóm\CSDL\Sơn\sieuthi\sieuthi\obj\Debug\sieuthi.nhanvien.resources
+D:\HK6-3\Thực tập nhóm\CSDL\Sơn\sieuthi\sieuthi\obj\Debug\sieuthi.NhapHang.resources
+D:\HK6-3\Thực tập nhóm\CSDL\Sơn\sieuthi\sieuthi\obj\Debug\sieuthi.Properties.Resources.resources
+D:\HK6-3\Thực tập nhóm\CSDL\Sơn\sieuthi\sieuthi\obj\Debug\sieuthi.csproj.GenerateResource.Cache
+D:\HK6-3\Thực tập nhóm\CSDL\Sơn\sieuthi\sieuthi\bin\Debug\sieuthi.exe.config
+D:\HK6-3\Thực tập nhóm\CSDL\Sơn\sieuthi\sieuthi\bin\Debug\sieuthi.exe
+D:\HK6-3\Thực tập nhóm\CSDL\Sơn\sieuthi\sieuthi\bin\Debug\sieuthi.pdb
+D:\HK6-3\Thực tập nhóm\CSDL\Sơn\sieuthi\sieuthi\obj\Debug\sieuthi.exe
+D:\HK6-3\Thực tập nhóm\CSDL\Sơn\sieuthi\sieuthi\obj\Debug\sieuthi.pdb
+D:\HK6-3\Thực tập nhóm\CSDL\Sơn\sieuthi\sieuthi\obj\Debug\sieuthi.HangHoa.resources
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLySieuThi\sieuthi\bin\Debug\sieuthi.exe.config
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.exe
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.pdb
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.csprojResolveAssemblyReference.cache
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.HangHoa.resources
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.nhanvien.resources
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.NhapHang.resources
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.Properties.Resources.resources
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.csproj.GenerateResource.Cache
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLySieuThi\sieuthi\bin\Debug\sieuthi.exe
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLySieuThi\sieuthi\bin\Debug\sieuthi.pdb
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.Main.resources
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.ThongKeNhapXuat.resources
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.BanHang.resources
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.Help.resources
+E:\xDatabase\QuanLySieuThi\sieuthi\bin\Debug\sieuthi.exe.config
+E:\xDatabase\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.exe
+E:\xDatabase\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.pdb
+D:\TTN\QuanLySieuThi\sieuthi\bin\Debug\sieuthi.exe.config
+D:\TTN\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.exe
+D:\TTN\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.pdb
+D:\TTN\QuanLySieuThi\sieuthi\bin\Debug\sieuthi.exe
+D:\TTN\QuanLySieuThi\sieuthi\bin\Debug\sieuthi.pdb
+D:\TTN\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.csprojResolveAssemblyReference.cache
+D:\TTN\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.BanHang.resources
+D:\TTN\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.HangHoa.resources
+D:\TTN\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.Help.resources
+D:\TTN\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.Main.resources
+D:\TTN\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.nhanvien.resources
+D:\TTN\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.NhapHang.resources
+D:\TTN\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.Properties.Resources.resources
+D:\TTN\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.ThongKeNhapXuat.resources
+D:\TTN\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.csproj.GenerateResource.Cache
+C:\TTN\QuanLySieuThi\sieuthi\bin\Debug\sieuthi.exe.config
+C:\TTN\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.exe
+C:\TTN\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.pdb
+C:\TTN\QuanLySieuThi\sieuthi\bin\Debug\sieuthi.exe
+C:\TTN\QuanLySieuThi\sieuthi\bin\Debug\sieuthi.pdb
+C:\TTN\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.csprojResolveAssemblyReference.cache
+C:\TTN\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.BanHang.resources
+C:\TTN\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.HangHoa.resources
+C:\TTN\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.Help.resources
+C:\TTN\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.Main.resources
+C:\TTN\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.nhanvien.resources
+C:\TTN\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.NhapHang.resources
+C:\TTN\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.Properties.Resources.resources
+C:\TTN\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.ThongKeNhapXuat.resources
+C:\TTN\QuanLySieuThi\sieuthi\obj\Debug\sieuthi.csproj.GenerateResource.Cache

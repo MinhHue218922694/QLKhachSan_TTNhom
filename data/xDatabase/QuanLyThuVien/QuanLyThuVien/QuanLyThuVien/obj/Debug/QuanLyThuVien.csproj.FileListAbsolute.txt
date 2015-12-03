@@ -1,0 +1,25 @@
+E:\school\Ky 6\Thực tập nhóm\Projects\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+E:\school\Ky 6\Thực tập nhóm\Projects\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+E:\school\Ky 6\Thực tập nhóm\Projects\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+E:\school\Ky 6\Thực tập nhóm\Projects\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+E:\school\Ky 6\Thực tập nhóm\Projects\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmSach.resources
+E:\school\Ky 6\Thực tập nhóm\Projects\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+E:\school\Ky 6\Thực tập nhóm\Projects\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+E:\school\Ky 6\Thực tập nhóm\Projects\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+E:\school\Ky 6\Thực tập nhóm\Projects\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+E:\school\Ky 6\Thực tập nhóm\Projects\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmDocGia.resources
+E:\school\Ky 6\Thực tập nhóm\Projects\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.MainPage.resources
+E:\school\Ky 6\Thực tập nhóm\Projects\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmMuon.resources
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmDocGia.resources
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmMuon.resources
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmSach.resources
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.MainPage.resources
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmTra.resources

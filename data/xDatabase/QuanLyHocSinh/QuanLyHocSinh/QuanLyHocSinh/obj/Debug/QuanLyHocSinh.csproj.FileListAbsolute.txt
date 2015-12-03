@@ -1,0 +1,3 @@
+E:\school\Ky 6\Thực tập nhóm\Projects\QuanLyHocSinh\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.exe.config
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyHocSinh\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.exe.config
+E:\xDatabase\QuanLyHocSinh\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.exe.config
