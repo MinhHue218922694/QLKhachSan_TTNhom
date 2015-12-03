@@ -1,0 +1,12 @@
+E:\school\Ky 6\Thực tập nhóm\Projects\Base\Base\bin\Debug\Base.exe.config
+E:\school\Ky 6\Thực tập nhóm\Projects\Base\Base\bin\Debug\Base.exe
+E:\school\Ky 6\Thực tập nhóm\Projects\Base\Base\bin\Debug\Base.pdb
+E:\school\Ky 6\Thực tập nhóm\Projects\Base\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+E:\school\Ky 6\Thực tập nhóm\Projects\Base\Base\obj\Debug\Base.Form1.resources
+E:\school\Ky 6\Thực tập nhóm\Projects\Base\Base\obj\Debug\Base.Properties.Resources.resources
+E:\school\Ky 6\Thực tập nhóm\Projects\Base\Base\obj\Debug\Base.csproj.GenerateResource.Cache
+E:\school\Ky 6\Thực tập nhóm\Projects\Base\Base\obj\Debug\Base.exe
+E:\school\Ky 6\Thực tập nhóm\Projects\Base\Base\obj\Debug\Base.pdb
+E:\xDatabase\Base\Base\bin\Debug\Base.exe.config
+E:\xDatabase\Base\Base\obj\Debug\Base.exe
+E:\xDatabase\Base\Base\obj\Debug\Base.pdb

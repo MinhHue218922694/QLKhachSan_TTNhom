@@ -1,0 +1,51 @@
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csprojResolveAssemblyReference.cache
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Form1.resources
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.Cache
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
+E:\school\Ky 6\ThucTapNhom\Projects\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
+E:\Thuctapnhom\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+E:\Thuctapnhom\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
+E:\Thuctapnhom\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
+E:\Thuctapnhom\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
+E:\Thuctapnhom\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
+E:\Thuctapnhom\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csprojResolveAssemblyReference.cache
+E:\Thuctapnhom\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
+E:\Thuctapnhom\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.Cache
+E:\Thuctapnhom\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.frmNhapKho.resources
+E:\Thuctapnhom\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.frmXuatKho.resources
+E:\Thuctapnhom\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.frmchinh.resources
+E:\Thuctapnhom\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.frmtimkiem.resources
+E:\school\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+E:\school\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
+E:\school\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
+E:\school\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
+E:\school\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
+E:\school\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csprojResolveAssemblyReference.cache
+E:\school\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.frmchinh.resources
+E:\school\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.frmNhapKho.resources
+E:\school\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.frmtimkiem.resources
+E:\school\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.frmXuatKho.resources
+E:\school\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
+E:\school\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.Cache
+E:\xDatabase\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+E:\xDatabase\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
+E:\xDatabase\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
+C:\Users\HUng\Desktop\TTN\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+C:\Users\HUng\Desktop\TTN\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
+C:\Users\HUng\Desktop\TTN\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
+C:\TTN\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+C:\TTN\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
+C:\TTN\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
+C:\TTN\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
+C:\TTN\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
+C:\TTN\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csprojResolveAssemblyReference.cache
+C:\TTN\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.frmchinh.resources
+C:\TTN\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.frmNhapKho.resources
+C:\TTN\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.frmtimkiem.resources
+C:\TTN\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.frmXuatKho.resources
+C:\TTN\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
+C:\TTN\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.Cache
